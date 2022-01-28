@@ -71,5 +71,4 @@ Figure 12: Scores by school type after clean data
 ![Scores by school type after clean data](https://user-images.githubusercontent.com/96403349/151622544-6fca25f5-a3df-43cb-ace5-70fd1d0a9236.png)
 
 ## Summary
-Removing 9th grade math and reading scores from Thomas High School negatively impacted its ranking among other schools and had a ripple effect on district score categories that THS fell into.
-
+Removing 9th grade math and reading scores from Thomas High School negatively impacted its ranking among other schools and also change to NaN's had an insigificant impact to the overall school analysis. It will be good if the school board continue with the budgeting process based on the updated data.
